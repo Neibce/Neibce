@@ -49,7 +49,7 @@
 
 </details>
 <details>
-  <summary><strong>🛡️ Internal Network Management (Military Service) [21.06.01 ~ 23.10.03]</strong></summary>
+  <summary><strong>🛡️ Internal Network Operations (Military Service) [21.06.01 ~ 23.10.03]</strong></summary>
   
   - **Institution:** Republic of Korea Army
 

@@ -45,11 +45,11 @@
 
 ## ✨ Activities & Achievements
 <details>
-  <summary><strong>🎯 2020 Busan Coding Competition / 🥈 은상 (부산대 SW중심대학단장상)</strong></summary>
+  <summary><strong>🎯 2020 Busan Coding Competition [20.09.05] / 🥈 은상 (부산대 SW중심대학단장상)</strong></summary>
 
 </details>
 <details>
-  <summary><strong>🛡️ Internal Network Operations (Military Service) [21.06.01 ~ 23.10.03]</strong></summary>
+  <summary><strong>🛡️ Internal Network Operations (Military Service) [22.06.01 ~ 23.10.03]</strong></summary>
   
   - **Institution:** Republic of Korea Army
 

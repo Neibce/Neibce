@@ -29,7 +29,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=5&locale=en&hide_title=false&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&exclude_repo=OnGi,PLUTO,PLUTO-Android
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=5&locale=en&hide_title=false&card_width=320&theme=transparent&hide_border=false&exclude_repo=OnGi,PLUTO,PLUTO-Android
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

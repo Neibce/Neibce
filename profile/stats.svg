@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Junyoung Yang's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 20, Total Commits  : 1173, Total PRs: 323, Total Issues: 44, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 20, Total Commits  : 1174, Total PRs: 323, Total Issues: 44, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.862732540259;
+        stroke-dashoffset: 85.84986026319064;
       }
     }
   
